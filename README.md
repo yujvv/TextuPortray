@@ -27,7 +27,7 @@ We're excited to announce that the code for TextuPortray will be open-sourced in
 
 Our experiments demonstrate TextuPortray's ability to generate high-quality, prompt-adherent animations with precise microexpressions and natural transitions.
 
-![TextuPortray Results](pic/results.png)
+![TextuPortray Results](results.png)
 
 ## 📜 Citation
 
